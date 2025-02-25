@@ -10,3 +10,4 @@ const FoodItem = ({ food }) => {
 };
 
 export default FoodItem;
+
